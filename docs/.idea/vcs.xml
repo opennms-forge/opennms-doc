@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/dev/docker/docker-build-env" vcs="Git" />
+    <mapping directory="$USER_HOME$/dev/docker/docker-horizon-core-web" vcs="Git" />
+    <mapping directory="$USER_HOME$/dev/docker/docker-maven" vcs="Git" />
+    <mapping directory="$USER_HOME$/dev/docker/docker-openjdk" vcs="Git" />
+  </component>
+</project>
